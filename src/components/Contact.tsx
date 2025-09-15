@@ -71,7 +71,7 @@ const Contact = () => {
           >
             <h3 className="text-2xl font-semibold text-gray-800">Contact Information</h3>
             <p className="text-gray-600">
-              I'm always open to discussing product design work or partnerships. Feel free to reach out through any of the following channels:
+              I&apos;m always open to discussing product design work together partnerships. Feel free to reach out through any of the following channels:
             </p>
             
             <div className="space-y-6">

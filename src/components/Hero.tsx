@@ -23,7 +23,7 @@ const Hero = () => {
               transition={{ duration: 0.5 }}
             >
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold bg-gradient-to-r from-gray-800 to-blue-700 dark:from-white dark:to-blue-300 bg-clip-text text-transparent mb-6">
-                Hi, I'm <span className="text-blue-600 dark:text-blue-400">Raushan Kumar</span>
+                Hi, I&apos;m <span className="text-blue-600 dark:text-blue-400">Raushan Kumar</span>
               </h1>
               <motion.h2 
                 className="text-2xl md:text-3xl text-gray-700 dark:text-gray-300 mb-8 font-mono"
@@ -40,7 +40,7 @@ const Hero = () => {
                 transition={{ delay: 0.4, duration: 0.5 }}
               >
                 I build <span className="font-medium text-blue-600 dark:text-blue-400">exceptional digital experiences</span> with modern web technologies.
-                Let's create something amazing together! 🚀
+                Let&apos;s create something amazing together! 🚀
               </motion.p>
               <motion.div 
                 className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start"
