@@ -5,8 +5,12 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
+    "postinstall": "next build",
     "start": "next start",
     "lint": "eslint"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   },
   "dependencies": {
     "@types/d3-scale": "^4.0.9",
